@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 DATA/
 Uploaded_Images/
-*embedding.pkl
+artifacts/
